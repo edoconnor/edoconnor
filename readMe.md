@@ -1,1 +1,1 @@
-## :wave: Hi there! I'm an Angular developer & data wrangler. 
+# :wave: I'm Ed! Full Stack Angular Developer & Data wrangler.
