@@ -1,4 +1,4 @@
-### :wave: Hi there! 
+## :wave: Hi there! 
 
 ![Ed's github stats](https://github-readme-stats.vercel.app/api?username=edoconnor)
 
