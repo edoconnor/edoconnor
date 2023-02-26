@@ -1,2 +1,2 @@
-:wave: **I'm Ed! Full Stack Developer | Angular | Express | Flask
+:wave: **I'm Ed! Full Stack Developer | Angular | Express | Flask**
  
