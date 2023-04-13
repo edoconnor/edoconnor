@@ -1,3 +1,3 @@
-**:wave: I'm Ed! Freelance Web Developer | Angular**<br>
-:sparkling_heart: Charting (D3) & Mapping (Leaflet)
-:mag: Check out my deployed apps: https://oconnor.app/portfolio
+**:wave: I'm Ed! Freelance Web Developer**<br>
+:sparkling_heart: Angular, Charting (D3) & Mapping (Leaflet)
+
