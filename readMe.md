@@ -1,3 +1,3 @@
-**:wave: I'm Ed! Software Engineer | Web Developer | Angular**<br>
+**:wave: I'm Ed! Web Developer | Angular**<br>
 
 
