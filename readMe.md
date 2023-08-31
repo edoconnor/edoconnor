@@ -1,3 +1,3 @@
-**:wave: I'm Ed! Web Application Developer**<br>
+**:wave: I'm Ed! Application Developer**<br>
 
 
