@@ -1,3 +1,3 @@
-**:wave: I'm Ed! Fractional CTO | Full-Stack Developer**<br>
+**:wave: I'm Ed! Full-Stack Developer**<br>
 
 
